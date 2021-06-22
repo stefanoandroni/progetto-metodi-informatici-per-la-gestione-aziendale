@@ -2,7 +2,9 @@
 Progetto d'esame per il corso di /Metodi informatici per la gestione aziendale/ dell'Università degli Studi di Milano-Bicocca.
 
 ## Main directions
-The projects are focalized on:  - data acquisition
+The projects are focalized on:  
+
+                                - data acquisition
 
                                 - exploratory analysis
                                 
