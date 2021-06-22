@@ -4,13 +4,13 @@ Progetto d'esame per il corso di /Metodi informatici per la gestione aziendale/ 
 ## Main directions
 The projects are focalized on:  
 
-                                - data acquisition
+      - data acquisition
 
-                                - exploratory analysis
+      - exploratory analysis
                                 
-                                - ML algorithm (regression/classification/clustering)
+      - ML algorithm (regression/classification/clustering)
                                 
-                                - results visualization and interpretation (using the main packages and functions already explained during the lab)
+      - results visualization and interpretation (using the main packages and functions already explained during the lab)
                                 
 ## Results organization, final report and presentation                                
 Each student has to produce
