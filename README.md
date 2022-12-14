@@ -32,4 +32,4 @@ Each student has to produce
 
 **presentation** --> Presentation.pptx
 
-**code in R** --> null
+**code in R** --> project.R
